@@ -4,23 +4,30 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-color: rgb(196,218,240);
   text-align: center;
   color: navy;
   margin: auto;
-  font-family: water;
 }
 
 h1{
-  font-size: 30px;
+  font-size: 50px;
 }
 
 #myCanvas {
   background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
   background-size: 600px 400px;
   border-radius: 300px;
-  border: 5px solid white;
+  border: 10px solid rgb(89,154,215);
 }
+
+.bonbon-regular {
+  font-family: "Bonbon", serif;
+  font-weight: bold;
+  font-style: normal;
+  color: rgb(89,154,215);
+}
+
 
 
 
